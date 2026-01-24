@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI Evaluation Project at Snorkel AI Lab**
 
-- 🌱 I’m currently learning **Langchain, Langraph**
+- 🌱 I’m currently learning **Langchain, Langraph, AI security framework**
 
 - 👯 I’m looking to collaborate on **AI Agent Development and Security**
 
